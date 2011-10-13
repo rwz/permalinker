@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Pavel Pravosud"]
   s.email       = ["rwz@duckroll.ru"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Rails permalink helpers}
+  s.description = %q{Rails permalink helpers}
 
   s.rubyforge_project = "permalinker"
 
